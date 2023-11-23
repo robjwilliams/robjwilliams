@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" width="250" height="200"/>
+  <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" width="200" height="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/robert-williams-540185116/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,13 +16,13 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="400" height="200"/>
 </div>
 
 ---
 
-### ⛹️‍♂️ About Me:
-I am a full-stack software developer mainly focused on building web apps. Always looking forward to solving new challenges.
+### ⛹️‍♂️ About Me :
+I am a full-stack software developer always looking forward to solving new challenges.
 
 ---
 
@@ -37,6 +37,20 @@ I am a full-stack software developer mainly focused on building web apps. Always
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-
-  
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robjwilliams&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robjwilliams&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
