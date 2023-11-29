@@ -24,6 +24,11 @@
 ### ⛹️‍♂️ About Me :
 I am a full-stack software developer always looking forward to solving new challenges.
 
+## ☘️ Currently :
+
+- Working on a personal website integrating Threejs models to a next project
+- Practising leetcode
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
